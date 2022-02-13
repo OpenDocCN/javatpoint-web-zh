@@ -1386,7 +1386,7 @@
 +   [PureCSS 教程](docs/1447.md)
     +   [基本](docs/1448.md)
     +   [PureCSS 教程](docs/1449.md)
-    +   [什么是PureCSS](docs/1450.md)
+    +   [什么是 PureCSS](docs/1450.md)
     +   [如何使用 PureCSS](docs/1451.md)
     +   [PureCSS 响应设计](docs/1452.md)
     +   [PureCSS 按钮](docs/1453.md)
