@@ -523,7 +523,7 @@
 	+   [AngularMaterial菜单栏](2524.md)
 	+   [AngularMaterial进度条](2525.md)
 	+   [AngularMaterial单选按钮](2526.md)
-	+   [角状Material碎片](2527.md)
+	+   [AngularMaterial碎片](2527.md)
 	+   [AngularMaterial选择](2528.md)
 	+   [AngularMaterial工具栏和工具提示](2529.md)
 	+   [AngularMaterial 2 月-工具栏](2530.md)
