@@ -8,7 +8,7 @@
 > 
 > 危机只有发展到最困难的阶段，才有可能倒逼出有效的解决方案。——《两次全球大危机的比较研究》
 
-* [在线阅读](https://jtpweb.apachecn.org)
+* [在线阅读](https://jtpweb.flygon.net)
 ## 下载
 
 ### Docker
